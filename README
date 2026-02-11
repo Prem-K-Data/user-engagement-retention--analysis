@@ -1,0 +1,33 @@
+# User Engagement & Retention Analysis
+
+End-to-end user engagement and retention analysis using SQL and Python, including cohort analysis, funnel metrics, and A/B testing to drive product growth insights.
+
+## Project Overview
+This project analyzes user engagement behavior for a digital platform to understand retention patterns, funnel conversion, and product growth opportunities.
+
+## Objectives
+- Measure user engagement metrics (active users, sessions)
+- Perform cohort analysis to evaluate retention trends
+- Identify funnel drop-offs
+- Simulate A/B testing results
+
+## Tools Used
+- SQL (data querying & cohort analysis)
+- Python (Pandas, NumPy, Matplotlib)
+- Data visualization
+
+## Repository Structure
+data/ → User dataset  
+sql/ → SQL queries  
+scripts/ → Python analysis code  
+reports/ → Insights summary  
+
+## Key Insights
+- Monthly cohorts show gradual retention decline.
+- Largest funnel drop occurs between signup and activation.
+- A/B test simulation suggests improved activation rate with UI change.
+
+## Business Impact
+- Improved understanding of churn patterns
+- Identified optimization opportunities in onboarding funnel
+- Data-driven product improvement suggestions
